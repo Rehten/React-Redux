@@ -1,0 +1,16 @@
+{
+  "name": "react-redux",
+  "version": "0.0.1",
+  "description": "\"My react-redux play project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "rehten",
+    "redux",
+    "react"
+  ],
+  "author": "rehten",
+  "license": "MIT"
+}
